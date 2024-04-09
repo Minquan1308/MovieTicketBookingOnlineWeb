@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MovieTicketBookingOnlineWebsite1.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<a class="btn btn-warning" asp-action="Add">Add Movie</a>
+
+<table class="table">
+    <thead style="background-color:gray;color: #fff;
+           padding: 20px;
+           text-align: center;">
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Director</th>
+            <th>ReleaseYear</th>
+            <th>Image</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody style="background-image: linear-gradient(to right, #8360c3, #2ebf91);color: #fff;font-family: Arial, sans-serif;text-align: center;
+    margin: 0;
+    padding: 0;">
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Name</td>
+                <td>@movie.Description</td>
+                <td>@movie.Director</td>
+                <td>@movie.ReleaseYear</td>
+                @* <td>@product.ImageUrl</td> *@
+                <td>
+                    @if (!string.IsNullOrEmpty(@movie.ImageUrl))
+                    {
+                        <img src="@movie.ImageUrl" alt="Movie Image" style="max-width: 200px;" />
+                    }
+                </td>
+                <td>@movie.Category?.Name </td>
+
+                <td>
+                    <a class="btn btn-primary" asp-action="Display" asp-route-id="@movie.Id">View</a> |
+                    <a class="btn btn-success" asp-action="Update" asp-route-id="@movie.Id">Edit</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@movie.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

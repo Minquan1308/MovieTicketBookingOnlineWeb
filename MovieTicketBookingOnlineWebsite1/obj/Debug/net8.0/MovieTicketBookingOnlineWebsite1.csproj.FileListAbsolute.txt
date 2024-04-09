@@ -284,3 +284,4 @@ C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBooki
 C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBookingOnlineWebsite1\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBookingOnlineWebsite1\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBookingOnlineWebsite1\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBookingOnlineWebsite1\obj\Debug\net8.0\MovieTicketBookingOnlineWebsite1.sourcelink.json

@@ -1,0 +1,18 @@
+﻿@model MovieTicketBookingOnlineWebsite1.Models.Movie
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <p>Are you sure you want to delete @Model.Name?</p>
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" alt="Movie Image" style="max-width: 500px;" />
+    }
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <button asp-action="Index" class="btn btn-success">Back</button>
+</form>

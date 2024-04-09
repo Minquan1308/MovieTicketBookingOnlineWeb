@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\FPT SHOP\source\repos\MovieTicketBookingOnlineWebsite1\MovieTicketBookingOnlineWebsite1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Admin/Views/Admin/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Admin/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Admin/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Admin/Views/Admin/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -122,8 +142,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Movie/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Movie/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Movie/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Shared/_LayoutNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/FPT SHOP/source/repos/MovieTicketBookingOnlineWebsite1/MovieTicketBookingOnlineWebsite1/Views/Shared/_LoginPartial.cshtml]
